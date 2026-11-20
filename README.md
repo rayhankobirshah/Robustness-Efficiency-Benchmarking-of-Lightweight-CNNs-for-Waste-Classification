@@ -77,7 +77,7 @@ source venv/bin/activate        # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-Tested with: Python [version], PyTorch [version], torchvision [version], scikit-learn [version], SciPy [version].
+
 
 ## Dataset
 
