@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Robustness–Efficiency Benchmarking of Lightweight CNNs for Waste Classification"
+authors:
+  - family-names: "Rayhan Kobir"
+    given-names: "Rayhan"
+date-released: 2026-11-20
+repository-code: "https://github.com/rayhankobirshah/Waste_Classification_Paper_Revised"
+license: MIT
